@@ -1,0 +1,8 @@
+# Python virtualenv and junk
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Environment secrets
+.env
